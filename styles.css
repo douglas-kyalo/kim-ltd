@@ -1,0 +1,39 @@
+ {
+  font-family: sans-serif;
+  padding: 80px;
+}
+h1 {
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+h2 {
+  font-size: 30px;
+}
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+}
+figure {body
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+  unicode-bidi: isolate;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+li,
+ul {
+  display: block;
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+}
